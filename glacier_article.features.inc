@@ -36,7 +36,7 @@ function glacier_article_image_default_styles() {
   $styles['article_image_full_size_l'] = array(
     'label' => 'Article image: full [l]',
     'effects' => array(
-      1 => array(
+      0 => array(
         'name' => 'focal_point_scale_and_crop',
         'data' => array(
           'width' => 460,
@@ -48,7 +48,7 @@ function glacier_article_image_default_styles() {
         ),
         'weight' => 1,
       ),
-      2 => array(
+      1 => array(
         'name' => 'image_progressive_effect',
         'data' => array(),
         'weight' => 2,
@@ -60,7 +60,7 @@ function glacier_article_image_default_styles() {
   $styles['article_image_teaser_size_l'] = array(
     'label' => 'Article image: teaser [l]',
     'effects' => array(
-      3 => array(
+      0 => array(
         'name' => 'focal_point_scale_and_crop',
         'data' => array(
           'width' => 280,
@@ -72,7 +72,7 @@ function glacier_article_image_default_styles() {
         ),
         'weight' => 1,
       ),
-      4 => array(
+      1 => array(
         'name' => 'image_progressive_effect',
         'data' => array(),
         'weight' => 2,
