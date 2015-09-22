@@ -246,7 +246,7 @@ function glacier_article_views_default_views() {
     4 => 0,
   );
   $handler->display->display_options['path'] = 'admin/content/articles';
-  $handler->display->display_options['menu']['title'] = 'Landingpages';
+  $handler->display->display_options['menu']['title'] = 'Articles';
   $handler->display->display_options['menu']['weight'] = '0';
   $handler->display->display_options['menu']['name'] = 'devel';
   $handler->display->display_options['menu']['context'] = 0;
