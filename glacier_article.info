@@ -48,6 +48,7 @@ features[variable][] = metatag_enable_node__article
 features[variable][] = node_options_article
 features[variable][] = node_preview_article
 features[variable][] = node_submitted_article
+features[variable][] = pathauto_node_article_pattern
 features[variable][] = redirect_setting_name_article
 features[variable][] = rh_module_article
 features[variable][] = rh_node_action_article
