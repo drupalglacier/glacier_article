@@ -40,7 +40,7 @@ function glacier_article_ds_layout_settings_info() {
   $ds_layout->entity_type = 'node';
   $ds_layout->bundle = 'article';
   $ds_layout->view_mode = 'default';
-  $ds_layout->layout = 'media';
+  $ds_layout->layout = 'media_rev';
   $ds_layout->settings = array(
     'regions' => array(
       'header' => array(
@@ -69,8 +69,8 @@ function glacier_article_ds_layout_settings_info() {
     ),
     'wrappers' => array(
       'header' => 'header',
-      'figure' => 'div',
       'body' => 'div',
+      'figure' => 'div',
       'footer' => 'footer',
     ),
     'layout_wrapper' => 'article',
