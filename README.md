@@ -1,5 +1,5 @@
-# glacier_article
-A basic "Article" content type plus view with "all" contents list and "admin" display. You can use this feature for a basic blog.
+# Article
+A basic „Article“ content type plus view with „all“ contents list and „admin“ display. You can use this feature for a basic blog.
 
 ## About
 Github: https://github.com/maoberlehnerdrupal/glacier_article
