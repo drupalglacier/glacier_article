@@ -1,0 +1,8 @@
+{
+  "name": "glacier_article",
+  "version": "1.0.0",
+  "license": "GPL v2",
+  "dependencies": {
+    "avalanche_object_media": "^2.0.0"
+  }
+}
